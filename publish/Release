@@ -1,0 +1,45 @@
+Architectures: iphoneos-arm64
+Codename: palera1n-repo
+Components: main
+Date: Thu, 29 Sep 2022 20:50:46 +0000
+Description: palera1n's official repo.
+Label: palera1n
+Origin: palera1n
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 44fd9c8160edb00ced633a20c14fb311             9032 Packages
+ 32e589f0cd5cbfcbbeec56ec71aca451             3578 Packages.bz2
+ 35fcd631f692492cf0c595ae16a78c62             3574 Packages.gz
+ 6930784ad0e57deeab4748242c9ee439             5207 Packages.lz4
+ 601ddb14fb52dc5b62a008d69c0b59a2             3387 Packages.lzma
+ ea4952234f631a76fb94e1edb0de789a             3432 Packages.xz
+ 03f52695809a096fcc4fb4d91537bec0             3421 Packages.zst
+ e060e393381aca277bcb08b919179766              208 Release
+SHA1:
+ e0ad1bea9334b1d3511c1a47ea8f0f0fa0a5a489             9032 Packages
+ a76c16f2717be56e363ddbf44c3bda2e27a3af2f             3578 Packages.bz2
+ 91952723f87827ee9a70ee51da3105f34a162465             3574 Packages.gz
+ 6b1f0791bdd2b5d2d44eb4a2d222e909b8723763             5207 Packages.lz4
+ cffec68b7fd50b656b47e0ae38e83ad5ed468077             3387 Packages.lzma
+ b72b00ea1f1253a3a4d9fbb7801a0471333950ab             3432 Packages.xz
+ 4adb9286f0a2847b057c59032ffb77528ae8cd16             3421 Packages.zst
+ 1016f209dd589870b2e4256daa6e0f62c6af37ff              208 Release
+SHA256:
+ eccdd8a1aa5ffdd9dde1eb619c19674f81bba51330101c8b5c1ab9d666ed726f             9032 Packages
+ eaedccee9dc403125fae474f9841e87e778f28beb64c8727e0c52650ef0cde09             3578 Packages.bz2
+ b5376396b7e12d82d5b79c3917775d05c57cb8881ebfc4410ce0944118ff6990             3574 Packages.gz
+ 7b01ca9cb5c8acd42a51f452758033751aa0450cca3614103e75df562d380d68             5207 Packages.lz4
+ e9830d3be3869419903154869462d96173ccc78b1c4c4c0fe1f3bd4007df7df3             3387 Packages.lzma
+ f446f5c936d0368e771c000cc00a5bb93d578a76c1e85a958119230c62ee97df             3432 Packages.xz
+ 9a8a1f61bf08a556eedfd367a6e2631d70681ab3c943d4775fbf4826fd31ca24             3421 Packages.zst
+ c94e9b0313de13417e281a38c252f3081581eeb5bb0cdf69b01a297731cda7c3              208 Release
+SHA512:
+ 9b33460d99998ac5bb2bfa9466ddf5c2cebce9757c31fbcaf7ce3c3468da6f1715dc8098054117954f10c74cf81e8f886f4ea72a7520bfca6aaf45cff4bb8f52             9032 Packages
+ 47f88e9db6ddf35a321591183d60466a5f4aa272fb44632c8a6006f5e62806dbd67a37cd1758fd4c2e4df6b297b323cb4e87f604f34cf66a4a13c11f8ceda2a0             3578 Packages.bz2
+ fad4841dd2a2e18efaa0c15b72340b6c6744ac36d3a153c68415fa6771a7f009460eea7290d44fb89e0ce52ff02dae5b3a04a7c8ae47d1d48c0bbf1816e9ef35             3574 Packages.gz
+ cd78056fe52c9a9b8ab87940e7f9fcacace02a548989c76cc673ca5db0ca0e8452b0896c8cd1b2ebf4b4b9a121b844b50063315ac862fda1d01deffb24490dd3             5207 Packages.lz4
+ 6547c28d5efeb3fd818dec39a4e65a395c3a28941a570cfbe33327d1a742ea62fc335e657fcae3156764df96a7b1fe057d531963388012076b4a8f5b2106f911             3387 Packages.lzma
+ db6fcef2242f81c82ede30a066adeb2b2942f102358081cf8803159d1eb059f3d6269f11ce4a03565580ae00cff87fd50c28cf4d9266c69fb81e69ab16823ed2             3432 Packages.xz
+ c6c72f425981c03f495a438a440647148cbbb45eb51d7f432343df800e6d1292a383f755f90f6b2b3ceaf49291d409b3c5ce8b683d99b36b65413f6ea0fa0f0b             3421 Packages.zst
+ 17dc1a9911ab249847be01e126a08557683eb2f19b27043e0a9b3710f7a5405ae0fc4764aa1bd7ddb03a182d6acf4ea55f7bf6ea84e99f21af8530e8c35bcdfb              208 Release
